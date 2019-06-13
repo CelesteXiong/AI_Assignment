@@ -1,2 +1,9 @@
 # AI_Assignment
-回归、分类、聚类
+1. Machine learning: 
+- 回归
+- 分类
+- 聚类
+2. Deep learning
+- RNN: 处理文本
+- CNN：图像分类
+- GAN：生成手写数字
