@@ -7,3 +7,6 @@
 - RNN: 处理文本
 - CNN：图像分类
 - GAN：生成手写数字
+## 3. Final assignment
+- Show and Tell
+- Facial Expression Recognition
